@@ -1,3 +1,5 @@
 Just a stupid rewrite in exe form of ssl's check4log4j. 95% not my own stuff, check him out.
 
+If you want the source code then just check out ssl's check4log4j. I only added some print('') statements, input('') and file.open(''+a) to rid of non existent file errors.
+
 Nothing to see here that is worth your time really.
